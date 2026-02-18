@@ -1,2 +1,2 @@
 # Curriculo
-Um curriculo em html 
+Um curriculo em html de um advogado
